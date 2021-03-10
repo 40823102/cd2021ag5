@@ -1,0 +1,1 @@
+var tipuesearch = {"pages": [{'title': 'About', 'text': '標題: 2021-協同產品設計實習-stage1-ag5 \n 專題題目:倒車入庫 \n 第一位組員學號:40823102劉怡萱\xa0\xa0 倉儲 \xa0\xa0 網頁 \n 第二位組員學號:40823106廖苡雯\xa0\xa0 倉儲 \xa0\xa0 網頁 \n 小組倉儲 \n \n', 'tags': '', 'url': 'About.html'}]};
