@@ -184,10 +184,15 @@ vertical: body pane on the botton</t>
 &lt;div class="slides"&gt;
     @others
 &lt;/div&gt;</t>
-<t tx="leo.20200818194812.1">第三週
+<t tx="leo.20200818194812.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
 
-@others</t>
+						
+</t>
 <t tx="leo.20200818194908.1">新增軸並選曲軸及車輪使兩件方向及位置同步
 
 &lt;img src="https://40823102.github.io/stage1-ag5/images/2021-03-16_16-50-56.gif" alt="" width="1000" height="600"&gt;
@@ -241,10 +246,15 @@ vertical: body pane on the botton</t>
 
 由於某段時間出門都遇到下雨因此產生想學開車的想法，就可以避免走在路上鞋子濕掉或要穿脫雨衣很麻煩.等問題，卻也聽到很多會開車的人都表示倒車入庫是學開車過程中最難的，因此我們的專題題目選定設計車子倒車入庫！
 </t>
-<t tx="leo.20210318025322.1">第二週
+<t tx="leo.20210318025322.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
 
-@others</t>
+						
+</t>
 <t tx="leo.20210318033944.1">分別繪製車身、車窗、車燈、車輪、車棚零件圖
 
 &lt;img src="https://scontent.ftpe12-2.fna.fbcdn.net/v/t1.15752-9/161412386_3762695177172078_2531961869382312523_n.jpg?_nc_cat=109&amp;ccb=1-3&amp;_nc_sid=ae9488&amp;_nc_ohc=VUfGD8T2CngAX8hz9Kj&amp;_nc_ht=scontent.ftpe12-2.fna&amp;oh=cf21949b8ab2ae9b28a13e7999200f66&amp;oe=6078D0C0" alt="" width="1000" height="600"&gt;
