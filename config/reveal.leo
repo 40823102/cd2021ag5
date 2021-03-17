@@ -491,11 +491,8 @@ console.log( '"customevent" has fired' );
 </t>
 <t tx="leo.20210318025322.1"></t>
 <t tx="leo.20210318033824.1"></t>
-<t tx="leo.20210318033944.1">分別繪製車身、車窗、車燈、車輪、車棚零件圖
-&lt;img src="https://scontent.ftpe12-2.fna.fbcdn.net/v/t1.15752-9/161412386_3762695177172078_2531961869382312523_n.jpg?_nc_cat=109&amp;ccb=1-3&amp;_nc_sid=ae9488&amp;_nc_ohc=VUfGD8T2CngAX8hz9Kj&amp;_nc_ht=scontent.ftpe12-2.fna&amp;oh=cf21949b8ab2ae9b28a13e7999200f66&amp;oe=6078D0C0" alt="" width="1000" height="600"&gt;</t>
-<t tx="leo.20210318034100.1">將零件圖進行組裝
-&lt;img src="https://scontent.ftpe12-2.fna.fbcdn.net/v/t1.15752-9/161288162_545458116420225_4858038035589802675_n.jpg?_nc_cat=103&amp;ccb=1-3&amp;_nc_sid=ae9488&amp;_nc_ohc=rd6wu_KrRRMAX-70mt9&amp;_nc_ht=scontent.ftpe12-2.fna&amp;oh=7766146be8a12ab0c7d1f4f20925d1e0&amp;oe=60798458" alt="" width="1000" height="600"&gt;</t>
-<t tx="leo.20210318034158.1">將圖檔存成stl檔並放入coppeliasim分解後進行色調調整
-&lt;img src="https://scontent.ftpe12-2.fna.fbcdn.net/v/t1.15752-9/161344698_894849554711025_6992330510732269178_n.jpg?_nc_cat=111&amp;ccb=1-3&amp;_nc_sid=ae9488&amp;_nc_ohc=zianCaU08UAAX-3omQQ&amp;_nc_ht=scontent.ftpe12-2.fna&amp;oh=04f3f56c7992dba486f399c02941b86b&amp;oe=6076C82A" alt="" width="1000" height="600"&gt;</t>
+<t tx="leo.20210318033944.1">分別繪製車身、車窗、車燈、車輪、車棚零件圖&lt;img src="https://scontent.ftpe12-2.fna.fbcdn.net/v/t1.15752-9/161412386_3762695177172078_2531961869382312523_n.jpg?_nc_cat=109&amp;ccb=1-3&amp;_nc_sid=ae9488&amp;_nc_ohc=VUfGD8T2CngAX8hz9Kj&amp;_nc_ht=scontent.ftpe12-2.fna&amp;oh=cf21949b8ab2ae9b28a13e7999200f66&amp;oe=6078D0C0" alt="" width="1000" height="600"&gt;</t>
+<t tx="leo.20210318034100.1">將零件圖進行組裝&lt;img src="https://scontent.ftpe12-2.fna.fbcdn.net/v/t1.15752-9/161288162_545458116420225_4858038035589802675_n.jpg?_nc_cat=103&amp;ccb=1-3&amp;_nc_sid=ae9488&amp;_nc_ohc=rd6wu_KrRRMAX-70mt9&amp;_nc_ht=scontent.ftpe12-2.fna&amp;oh=7766146be8a12ab0c7d1f4f20925d1e0&amp;oe=60798458" alt="" width="1000" height="600"&gt;</t>
+<t tx="leo.20210318034158.1">將圖檔存成stl檔並放入coppeliasim分解後進行色調調整&lt;img src="https://scontent.ftpe12-2.fna.fbcdn.net/v/t1.15752-9/161344698_894849554711025_6992330510732269178_n.jpg?_nc_cat=111&amp;ccb=1-3&amp;_nc_sid=ae9488&amp;_nc_ohc=zianCaU08UAAX-3omQQ&amp;_nc_ht=scontent.ftpe12-2.fna&amp;oh=04f3f56c7992dba486f399c02941b86b&amp;oe=6076C82A" alt="" width="1000" height="600"&gt;</t>
 </tnodes>
 </leo_file>
