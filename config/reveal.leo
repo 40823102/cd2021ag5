@@ -31,6 +31,7 @@
 <v t="leo.20210318033944.1"><vh>零件</vh></v>
 <v t="leo.20210318034100.1"><vh>組合</vh></v>
 <v t="leo.20210318034158.1"><vh>COM</vh></v>
+<v t="leo.20210318035513.1"><vh>影片</vh></v>
 </v>
 <v t="leo.20210318033824.1"><vh>newHeadline</vh></v>
 <v t="leo.20200818194812.1"><vh>W3</vh>
@@ -490,13 +491,28 @@ console.log( '"customevent" has fired' );
 由於某段時間出門都遇到下雨因此產生想學開車的想法，就可以避免走在路上鞋子濕掉或要穿脫雨衣很麻煩.等問題，卻也聽到很多會開車的人都表示倒車入庫是學開車過程中最難的，因此我們的專題題目選定設計車子倒車入庫！
 </t>
 <t tx="leo.20210318025322.1">第二週
-</t>
+
+
+@others</t>
 <t tx="leo.20210318033824.1"></t>
 <t tx="leo.20210318033944.1">分別繪製車身、車窗、車燈、車輪、車棚零件圖
-&lt;img src="https://scontent.ftpe12-2.fna.fbcdn.net/v/t1.15752-9/161412386_3762695177172078_2531961869382312523_n.jpg?_nc_cat=109&amp;ccb=1-3&amp;_nc_sid=ae9488&amp;_nc_ohc=VUfGD8T2CngAX8hz9Kj&amp;_nc_ht=scontent.ftpe12-2.fna&amp;oh=cf21949b8ab2ae9b28a13e7999200f66&amp;oe=6078D0C0" alt="" width="1000" height="600"&gt;</t>
+
+&lt;img src="https://scontent.ftpe12-2.fna.fbcdn.net/v/t1.15752-9/161412386_3762695177172078_2531961869382312523_n.jpg?_nc_cat=109&amp;ccb=1-3&amp;_nc_sid=ae9488&amp;_nc_ohc=VUfGD8T2CngAX8hz9Kj&amp;_nc_ht=scontent.ftpe12-2.fna&amp;oh=cf21949b8ab2ae9b28a13e7999200f66&amp;oe=6078D0C0" alt="" width="1000" height="600"&gt;
+
+@others</t>
 <t tx="leo.20210318034100.1">將零件圖進行組裝
-&lt;img src="https://scontent.ftpe12-2.fna.fbcdn.net/v/t1.15752-9/161288162_545458116420225_4858038035589802675_n.jpg?_nc_cat=103&amp;ccb=1-3&amp;_nc_sid=ae9488&amp;_nc_ohc=rd6wu_KrRRMAX-70mt9&amp;_nc_ht=scontent.ftpe12-2.fna&amp;oh=7766146be8a12ab0c7d1f4f20925d1e0&amp;oe=60798458" alt="" width="1000" height="600"&gt;</t>
+
+&lt;img src="https://scontent.ftpe12-2.fna.fbcdn.net/v/t1.15752-9/161288162_545458116420225_4858038035589802675_n.jpg?_nc_cat=103&amp;ccb=1-3&amp;_nc_sid=ae9488&amp;_nc_ohc=rd6wu_KrRRMAX-70mt9&amp;_nc_ht=scontent.ftpe12-2.fna&amp;oh=7766146be8a12ab0c7d1f4f20925d1e0&amp;oe=60798458" alt="" width="1000" height="600"&gt;
+
+
+@others</t>
 <t tx="leo.20210318034158.1">將圖檔存成stl檔並放入coppeliasim分解後進行色調調整
-&lt;img src="https://scontent.ftpe12-2.fna.fbcdn.net/v/t1.15752-9/161344698_894849554711025_6992330510732269178_n.jpg?_nc_cat=111&amp;ccb=1-3&amp;_nc_sid=ae9488&amp;_nc_ohc=zianCaU08UAAX-3omQQ&amp;_nc_ht=scontent.ftpe12-2.fna&amp;oh=04f3f56c7992dba486f399c02941b86b&amp;oe=6076C82A" alt="" width="1000" height="600"&gt;</t>
+
+&lt;img src="https://scontent.ftpe12-2.fna.fbcdn.net/v/t1.15752-9/161344698_894849554711025_6992330510732269178_n.jpg?_nc_cat=111&amp;ccb=1-3&amp;_nc_sid=ae9488&amp;_nc_ohc=zianCaU08UAAX-3omQQ&amp;_nc_ht=scontent.ftpe12-2.fna&amp;oh=04f3f56c7992dba486f399c02941b86b&amp;oe=6076C82A" alt="" width="1000" height="600"&gt;
+
+@others</t>
+<t tx="leo.20210318035513.1">2021-協同產品設計實習-stage1-ag5 w2影片(https://www.youtube.com/watch?v=Ycw1Y1WBLEk)
+
+@others</t>
 </tnodes>
 </leo_file>
