@@ -28,12 +28,12 @@
 <v t="leo.20210318022136.2"><vh>目錄內容</vh></v>
 </v>
 <v t="leo.20200818194751.1"><vh>W2</vh>
-<v t="leo.20210318022330.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318022330.1"><vh>繪製車</vh></v>
 </v>
-<v t="leo.20200818194812.1"><vh>slide 13</vh>
+<v t="leo.20200818194812.1"><vh>W3</vh>
 <v t="leo.20200818194908.1"><vh>slide 13-1</vh></v>
-<v t="leo.20200818194933.1"><vh>slide 13-2</vh></v>
 </v>
+<v t="leo.20210318025322.1"><vh>newHeadline</vh></v>
 <v t="leo.20200818194840.1"><vh>slide 14</vh></v>
 <v t="leo.20200818195039.1"><vh>slide 15</vh></v>
 <v t="leo.20200818195105.1"><vh>slide 16</vh>
@@ -241,33 +241,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818194908.1">&lt;section id="fragments"&gt;
-    &lt;h2&gt;Fragments&lt;/h2&gt;
-    &lt;p&gt;Hit the next arrow...&lt;/p&gt;
-    &lt;p class="fragment"&gt;... to step through ...&lt;/p&gt;
-    &lt;p&gt;&lt;span class="fragment"&gt;... a&lt;/span&gt; &lt;span class="fragment"&gt;fragmented&lt;/span&gt; &lt;span class="fragment"&gt;slide.&lt;/span&gt;&lt;/p&gt;
-
-    &lt;aside class="notes"&gt;
-        This slide has fragments which are also stepped through in the notes window.
-    &lt;/aside&gt;
-&lt;/section&gt;
- </t>
-<t tx="leo.20200818194933.1">&lt;section&gt;
-    &lt;h2&gt;Fragment Styles&lt;/h2&gt;
-    &lt;p&gt;There's different types of fragments, like:&lt;/p&gt;
-    &lt;p class="fragment grow"&gt;grow&lt;/p&gt;
-    &lt;p class="fragment shrink"&gt;shrink&lt;/p&gt;
-    &lt;p class="fragment fade-out"&gt;fade-out&lt;/p&gt;
-    &lt;p&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-right"&gt;fade-right, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-up"&gt;up, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-down"&gt;down, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-left"&gt;left&lt;/span&gt;
-    &lt;/p&gt;
-    &lt;p class="fragment fade-in-then-out"&gt;fade-in-then-out&lt;/p&gt;
-    &lt;p class="fragment fade-in-then-semi-out"&gt;fade-in-then-semi-out&lt;/p&gt;
-    &lt;p&gt;Highlight &lt;span class="fragment highlight-red"&gt;red&lt;/span&gt; &lt;span class="fragment highlight-blue"&gt;blue&lt;/span&gt; &lt;span class="fragment highlight-green"&gt;green&lt;/span&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+<t tx="leo.20200818194908.1">13</t>
 <t tx="leo.20200818195039.1">&lt;section id="themes"&gt;
     &lt;h2&gt;Themes&lt;/h2&gt;
     &lt;p&gt;
@@ -532,7 +506,8 @@ console.log( '"customevent" has fired' );
 
 由於某段時間出門都遇到下雨因此產生想學開車的想法，就可以避免走在路上鞋子濕掉或要穿脫雨衣很麻煩.等問題，卻也聽到很多會開車的人都表示倒車入庫是學開車過程中最難的，因此我們的專題題目選定設計車子倒車入庫！
 </t>
-<t tx="leo.20210318022330.1">利用繪圖軟體Inventor分別繪製零件圖及組合圖
-&lt;img caption="false" height="261" src="blob:https://localhost:9443/cad3560e-4e08-42e3-965f-e7a74815aa20" width="350"&gt;</t>
+<t tx="leo.20210318022330.1">&lt;p&gt;&lt;span&gt;繪製車&lt;/span&gt;子本體(無車窗車燈)&lt;/p&gt;
+&lt;p&gt;&lt;img caption="false" height="261" src="blob:https://localhost:9443/cad3560e-4e08-42e3-965f-e7a74815aa20" width="350"&gt;&lt;/p&gt;</t>
+<t tx="leo.20210318025322.1"></t>
 </tnodes>
 </leo_file>
