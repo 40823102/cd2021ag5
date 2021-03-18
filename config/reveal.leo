@@ -232,12 +232,14 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210318022157.2">2021-協同產品設計實習-stage1-ag5
 
 &lt;small&gt;
-[repo](https://github.com/40823102/stage1-ag5) [site](https://40823102.github.io/stage1-ag5/content/index.html)
+[repo](https://github.com/40823102/stage1-ag5) 
+[site](https://40823102.github.io/stage1-ag5/content/index.html)
 &lt;/small&gt;
 
 專題題目:倒車入庫
 
-組員[40823102劉怡萱](https://40823102.github.io/cd2021/content/index.html)
+組員
+[40823102劉怡萱](https://40823102.github.io/cd2021/content/index.html)
 [40823106廖苡雯](https://40823106.github.io/cd2021/content/index.html)</t>
 <t tx="leo.20210318022210.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
