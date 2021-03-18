@@ -57,6 +57,9 @@
 <v t="leo.20210318042331.1"><vh>4</vh>
 <v t="leo.20210318042741.1"><vh>newHeadline</vh></v>
 </v>
+<v t="leo.20210318130902.1"><vh>心得</vh>
+<v t="leo.20210318130921.1"><vh>newHeadline</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -390,5 +393,17 @@ https://40823102.github.io/stage1-ag5/images/2021-03-16_17-30-30.gif</t>
 <t tx="leo.20210318042741.1">2021-協同產品設計實習-stage1-ag5 w3影片(https://www.youtube.com/watch?time_continue=4&amp;v=RHm0CBf6q1I&amp;feature=emb_title)
 
 @others</t>
+<t tx="leo.20210318130902.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20210318130921.1">討論心得
+
+在這次的分組專題中，我們從構想主題到討論如何做動及真的用軟體模擬做動完整花了不少心力，這其中也讓我們認知到團隊分工合作及溝通的重要性，以及一項產品的開發是一件多麼困難的事情！</t>
 </tnodes>
 </leo_file>
