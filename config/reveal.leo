@@ -341,6 +341,7 @@ vertical: body pane on the botton</t>
 						
 </t>
 <t tx="leo.20210318042551.1">第二週 
+
 繪製零件圖並放入coppeliasim進行色調調整</t>
 <t tx="leo.20210318042610.1">分別繪製車身、車窗、車燈、車輪、車棚零件圖
 
@@ -362,19 +363,23 @@ vertical: body pane on the botton</t>
 
 @others</t>
 <t tx="leo.20210318042711.1">第三周 
+
 在coppeliasim進行模擬並修爭錯誤</t>
 <t tx="leo.20210318042725.1">新增軸並選曲軸及車輪使兩件方向及位置同步
 
 &lt;img src="https://40823102.github.io/stage1-ag5/images/2021-03-16_16-50-56.gif" alt="" width="1000" height="600"&gt;
 
 @others</t>
-<t tx="leo.20210318042734.1">問題:發現車子不如預期做動
+<t tx="leo.20210318042734.1">發現問題
+
+發現車子不如預期做動
 
 &lt;img src="https://40823102.github.io/stage1-ag5/images/2021-03-16_17-30-30.gif" alt="" width="1000" height="600"&gt;
 
 @others
 https://40823102.github.io/stage1-ag5/images/2021-03-16_17-30-30.gif</t>
 <t tx="leo.20210318042737.1">解決辦法
+
 車身不能貼合才可以做動因此將車輪往外移對各軸設定速度並完成做動
 
 &lt;img src="https://40823102.github.io/stage1-ag5/images/LsbZ23Cju7.gif" alt="" width="1000" height="600"&gt;
