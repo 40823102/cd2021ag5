@@ -231,8 +231,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20210318022157.2">2021-協同產品設計實習-stage1-ag5
 
-[repo]&lt;a href="https://github.com/40823102/stage1-ag5"&gt;40823102&lt;/a&gt;
-[site]&lt;a href="https://40823102.github.io/stage1-ag5/content/index.html"&gt;40823102&lt;/a&gt;
+&lt;a href="https://github.com/40823102/stage1-ag5"&gt;repo&lt;/a&gt;
+&lt;a href="https://40823102.github.io/stage1-ag5/content/index.html"&gt;site&lt;/a&gt;
 
 專題題目:倒車入庫
 
