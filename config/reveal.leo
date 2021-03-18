@@ -370,13 +370,14 @@ vertical: body pane on the botton</t>
 @others</t>
 <t tx="leo.20210318042734.1">問題:發現車子不如預期做動
 
-&lt;img src="https://40823102.github.io/stage1-ag5/images/2021-03-16_17-30-30.giff" alt="" width="1000" height="600"&gt;
+&lt;img src="https://40823102.github.io/stage1-ag5/images/2021-03-16_17-30-30.gif" alt="" width="1000" height="600"&gt;
 
-@others</t>
+@others
+https://40823102.github.io/stage1-ag5/images/2021-03-16_17-30-30.gif</t>
 <t tx="leo.20210318042737.1">解決辦法
 車身不能貼合才可以做動因此將車輪往外移對各軸設定速度並完成做動
 
-&lt;img src="https://40823102.github.io/stage1-ag5/images/LsbZ23Cju7.giff" alt="" width="1000" height="600"&gt;
+&lt;img src="https://40823102.github.io/stage1-ag5/images/LsbZ23Cju7.gif" alt="" width="1000" height="600"&gt;
 
 @others</t>
 <t tx="leo.20210318042741.1">2021-協同產品設計實習-stage1-ag5 w3影片(https://www.youtube.com/watch?time_continue=4&amp;v=RHm0CBf6q1I&amp;feature=emb_title)
